@@ -1,0 +1,23 @@
+{
+  "name": "metamorphosis",
+  "version": "0.0.1-dev",
+  "description": "Abstract Syntax Tree Manipulation",
+  "main": "index.js",
+  "dependencies": {
+    "esprima-fb": "~1001.1001.1000-dev-harmony-fb",
+    "escodegen": "0.0.26"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node --harmony index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zahanm/metamorphosis.git"
+  },
+  "author": "Zahan Malkani <z@zahanm.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zahanm/metamorphosis/issues"
+  }
+}
