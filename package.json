@@ -5,11 +5,12 @@
   "main": "index.js",
   "dependencies": {
     "esprima-fb": "~1001.1001.1000-dev-harmony-fb",
-    "escodegen": "0.0.26"
+    "escodegen": "0.0.26",
+    "estraverse": "~1.3.0"
   },
   "devDependencies": {},
   "scripts": {
-    "test": "node --harmony index.js"
+    "test": "node --harmony lib/index.js"
   },
   "repository": {
     "type": "git",
