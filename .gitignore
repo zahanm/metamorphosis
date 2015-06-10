@@ -1,3 +1,5 @@
+.DS_Store
+
 lib-cov
 *.seed
 *.log
@@ -16,3 +18,4 @@ npm-debug.log
 
 # project specific
 /fbtransform/
+/firstpass/
